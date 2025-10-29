@@ -48,6 +48,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>telegram-bot-crypto</finalName>
 	</build>
 
 </project>
